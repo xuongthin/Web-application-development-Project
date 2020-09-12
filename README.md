@@ -1,2 +1,2 @@
-# Web-application-development-Project
-bài tập lớn môn phát triển ứng dụng web
+This repository is belong to Nguyen Xuong Thin.
+Under the collaboration of:
