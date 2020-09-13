@@ -1,3 +1,4 @@
 This repository is belong to Nguyen Xuong Thin.
 Under the collaboration of:
-1.Mai Xuân Minh
+1.Mai Xuân Minh - 18020907
+
